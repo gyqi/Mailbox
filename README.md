@@ -5,7 +5,7 @@ README for Mailbox
 Description:
 This is an iOS demo application that is for the week 3 assignment of Codepath iOS for designers.
 
-Time spent: 4 hours spent in total
+Time spent: 7 hours spent in total
 
 Completed user stories:
 
