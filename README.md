@@ -33,7 +33,7 @@ Completed user stories:
 
 Required + Optional
 
-![Video Walkthrough](carousel_required.gif?raw=true)
+![Video Walkthrough](mailbox.gif?raw=true)
 
 
 Open-Source Library: none
