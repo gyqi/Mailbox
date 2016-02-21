@@ -5,7 +5,7 @@ README for Mailbox
 Description:
 This is an iOS demo application that is for the week 3 assignment of Codepath iOS for designers.
 
-Time spent: 7 hours spent in total
+Time spent: 11 hours spent in total
 
 Completed user stories:
 
@@ -27,21 +27,14 @@ Completed user stories:
 * [x] Optional: Panning from the edge should reveal the menu
 * [x] Optional: If the menu is being revealed when the user lifts their finger, it should continue revealing.
 * [x] Optional: If the menu is being hidden when the user lifts their finger, it should continue hiding.
-* [ ] Optional: Tapping on compose should animate to reveal the compose view.
+* [x] Optional: Tapping on compose should animate to reveal the compose view.
 * [x] Optional: Tapping the segmented control in the title should swipe views in from the left or right.
-* [ ] Optional: Shake to undo.
+* [x] Optional: Shake to undo.
 
-Notes:
-
-Walkthrough of user stories: 
-
-Required
+Required + Optional
 
 ![Video Walkthrough](carousel_required.gif?raw=true)
 
-Optional
-
-![Video Walkthrough](carousel_optional.gif?raw=true)
 
 Open-Source Library: none
 GIF created with LiceCap.
